@@ -285,6 +285,7 @@ body.dark-theme {
     transform: scale(1.1);
   }
 }
+
 @keyframes pulse-data {
   0%,
   100% {
